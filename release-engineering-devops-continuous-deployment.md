@@ -48,8 +48,9 @@ our battlefield!
 To apply, send the following to careers@signalsciences.com
 
 1. Your 1 page resune.
-2. Your github or other social-coding handle
-3. A brief introduction to yourself, and Why the job and Signal Sciences is the right place you
+2. Your github or other social-coding handle, or a URL to your personal site
+   or blog.
+3. A brief introduction to yourself, and why the job and Signal Sciences is the right place you
 
 Didn't see quite the right job?  Email us anyways.
 
