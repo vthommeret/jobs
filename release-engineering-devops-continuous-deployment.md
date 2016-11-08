@@ -51,7 +51,8 @@ our battlefield!
   welcome people with different backgrounds.  Most of the team was not familiar
   with Go when they started but were productive very quickly.
 * Built or major contributor to an in-house or open-source deploy tools or
-  CI/CD pipelines (e.g. Jenkins, CircleCI, Travis, etc).
+  CI/CD pipelines (e.g. Jenkins, CircleCI, Travis, etc)
+* Or an engineer who has used CI/CD wants them to be better
 * We are slowly migrating to docker-based deploys. If you have docker
   experience already great!  If not, this is a great opportunity to do so!
 
