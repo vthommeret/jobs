@@ -43,6 +43,11 @@ production.
 We'd love hear your stories from the battlefield.  And better yet, working on
 our battlefield!
 
+Our current tools are mostly written in Go ("golang").  However we gladly
+welcome people with different scripting or compiled language backgrounds.
+Most of the team was not familiar with Go when they started but were
+productive very quickly.
+
 ## Apply
 
 To apply, send the following to careers@signalsciences.com
