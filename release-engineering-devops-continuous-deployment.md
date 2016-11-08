@@ -12,7 +12,7 @@ insert
   zones away will also be considered.
 * Suitable for mid- and senior- level engineers
 
-## The Problem
+## Problems
 
 “Continuous Delivery” isn’t a trendy buzzword for us -- it’s a competitive
 advantage.   We strive to have a "culture of shipping" where developers are
@@ -43,7 +43,7 @@ production.
 We'd love hear your stories from the battlefield.  And better yet, working on
 our battlefield!
 
-## The Solution
+## Solutions
 
 * Strong linux and bash fundamentals.  Sadly even in 2016, bash is essential
   glue.
