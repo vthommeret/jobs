@@ -1,10 +1,18 @@
-# Release Engineering - DevOps - Continuous deployment
+# Release Engineering - DevOps - Continuous Deployment
 
 ## About Signal Sciences
 
 insert
 
 ## The Job
+
+* This job is in the engineering group.
+* This is an individual contributor role (not people management)
+* Located in Los Angeles, although exceptional canidates a few time
+  zones away will also be considered.
+* Suitable for mid- and senior- level engineers
+
+## The Problem
 
 “Continuous Delivery” isn’t a trendy buzzword for us -- it’s a competitive
 advantage.   We strive to have a "culture of shipping" where developers are
@@ -41,5 +49,7 @@ To apply, send the following to careers@signalsciences.com
 
 1. Your 1 page resune.
 2. Your github or other social-coding handle
-3. Why the job and Signal Sciences is the right place you
+3. A brief introduction to yourself, and Why the job and Signal Sciences is the right place you
+
+Didn't see quite the right job?  Email us anyways.
 
