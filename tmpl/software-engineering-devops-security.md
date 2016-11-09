@@ -1,10 +1,5 @@
 # Software Engineering - DevOps - Security
-
-## About Signal Sciences
-
-blah blah
-
-
+{{ template "about" }}
 ## The Job
 
 * Is in the engineering group
@@ -53,17 +48,5 @@ is outside production already.
 * Bonus: integration experience with some type of centralized logging (anything from
   syslogd to splunk to sumo logic) and some type of metrics / graphing system
   (anything from graphite to data dog).
-
-## Apply
-
-To apply, send the following to careers@signalsciences.com
-
-1. Your resume, preferably in plaintext, markdown or PDF formats.
-2. Your github or other social-coding handle, or a URL to your personal site
-   or blog.
-3. A brief introduction to yourself, and why the job and Signal Sciences
-   is the right place you.
-
-Didn't see quite the right job?  Email us anyways.
-
+{{ template "apply" }}
 

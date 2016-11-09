@@ -1,11 +1,6 @@
 # Release Engineering - DevOps - Continuous Deployment
 
-
-## About Signal Sciences
-
-blah blah
-
-
+{{ template "about" }}
 
 ## The Job
 
@@ -59,16 +54,4 @@ our battlefield!
 * We are slowly migrating to docker-based deploys. If you have docker
   experience already great!  If not, this is a great opportunity to do so!
 
-
-## Apply
-
-To apply, send the following to careers@signalsciences.com
-
-1. Your resume, preferably in plaintext, markdown or PDF formats.
-2. Your github or other social-coding handle, or a URL to your personal site
-   or blog.
-3. A brief introduction to yourself, and why the job and Signal Sciences
-   is the right place you.
-
-Didn't see quite the right job?  Email us anyways.
-
+{{ template "apply" }}
