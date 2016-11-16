@@ -5,7 +5,7 @@
 Signal Sciences empowers security and engineering teams by providing visible and effective web application security protecting against real-world attacks.  With our unique hybrid on-premise and cloud architecture, we process, protect and report on billions of requests per day for some of the most sophisticated companies in the world ranging from Adobe to Vimeo, Taser to Under Armour. Our goal is making a more secure Web, with tools that people love to use, written by people who love to make them.  Join Us.
 
 
-# The Job
+## The Job
 
 The Job
 
@@ -14,7 +14,7 @@ The Job
   away will be considered.
 * Is an individual contributor job (not people management).
 
-# Problems
+## Problems
 
 At Signal Sciences, most of our stack is written in Go (“golang”).  Some
 parts are especially performance critical and are looking for a full-time
@@ -30,7 +30,7 @@ in golang to be simpler and easier to use.
 But just as important is working on automating these tests so problems are
 surfaced faster. 
 
-# Solutions
+## Solutions
 
 * Strong linux and bash skills, 
 * Written or previously optimized high-load servers (language irrelevant)

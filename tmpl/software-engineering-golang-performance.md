@@ -1,6 +1,6 @@
 # Software Engineering - Golang - Performance
 {{ template "about"}}
-# The Job
+## The Job
 
 The Job
 
@@ -9,7 +9,7 @@ The Job
   away will be considered.
 * Is an individual contributor job (not people management).
 
-# Problems
+## Problems
 
 At Signal Sciences, most of our stack is written in Go (“golang”).  Some
 parts are especially performance critical and are looking for a full-time
@@ -25,7 +25,7 @@ in golang to be simpler and easier to use.
 But just as important is working on automating these tests so problems are
 surfaced faster. 
 
-# Solutions
+## Solutions
 
 * Strong linux and bash skills, 
 * Written or previously optimized high-load servers (language irrelevant)
