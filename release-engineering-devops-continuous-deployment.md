@@ -3,7 +3,7 @@
 
 ## About Signal Sciences
 
-blah blah
+Signal Sciences empowers security and engineering teams by providing visible and effective web application security protecting against real-world attacks.  With our unique hybrid on-premise and cloud architecture, we process, protect and report on billions of requests per day for some of the most sophisticated companies in the world ranging from Adobe to Vimeo, Taser to Under Armour. Our goal is making a more secure Web, with tools that people love to use, written by people who love to make them.  Join Us.
 
 
 
