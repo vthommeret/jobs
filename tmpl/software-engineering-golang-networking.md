@@ -2,8 +2,6 @@
 {{ template "about"}}
 ## The Job
 
-The Job
-
 * Is in the engineering group.
 * Located in Los Angeles, CA, although exceptional canidates a few time zones
   away will be considered.
