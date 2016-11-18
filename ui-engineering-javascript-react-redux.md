@@ -13,10 +13,9 @@
 * This is an individual contributor role (not people management)
 * Located in Los Angeles, although exceptional candidates a few time
   zones away will also be considered.
-  * Suitable for mid- and senior- level engineers
+* Suitable for mid- and senior- level engineers
 
-
-##Problems
+## Problems
 
 Our UI/UX team is working as a _services group_ to empower feature developers
 to make high quality products that our customers will love using.  To do this,
