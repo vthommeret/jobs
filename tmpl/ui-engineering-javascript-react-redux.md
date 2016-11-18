@@ -47,5 +47,5 @@ interacting heavily with designers, the API/Data team and the features teams.
 python or ruby backgrounds as well.
 * Some basics of Linux/Bash will be useful to aid in our component build system.
 
-{ template "apply" }
+{{ template "apply" }}
 

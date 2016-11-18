@@ -52,5 +52,17 @@ interacting heavily with designers, the API/Data team and the features teams.
 python or ruby backgrounds as well.
 * Some basics of Linux/Bash will be useful to aid in our component build system.
 
-{ template "apply" }
+
+## Apply
+
+To apply, send the following to careers@signalsciences.com
+
+1. Your resume, preferably in plaintext, markdown or PDF formats.
+2. Your github or other social-coding handle, or a URL to your personal site
+   or blog.
+3. A brief introduction to yourself, and why the job and Signal Sciences
+   is the right place you.
+
+Didn't see quite the right job?  Email us anyways.
+
 
