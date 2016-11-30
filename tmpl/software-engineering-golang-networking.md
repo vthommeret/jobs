@@ -13,7 +13,7 @@ How fast and efficiently can data be sent between two processes?
 
 Our unique and (patent pending) architecture can scale along with some of the
 largest sites on the Internet.  However our customers are always pushing the
-boundry (both up in scale, and down to very small machines), and thus so must
+boundary (both up in scale, and down to very small machines), and thus so must
 we.  To do so we are constantly trying to do more with less, with a balancing
 act between CPU, memory and networking.
 
