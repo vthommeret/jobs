@@ -23,7 +23,7 @@ of graphs.
 
 We have our own roadmap of features to help change the security, and
 web applications are made.  But, in addition, our pesky customers (only the
-largest and most sophicated on Internet) keep finding new uses and keep coming
+largest and most sophisticated on Internet) keep finding new uses and keep coming
 up with new requirements.
 
 ## Solutions
