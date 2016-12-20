@@ -9,7 +9,7 @@
 
 * Is in the engineering group.
 * Located in either Los Angeles, CA, or New York, NY
-  although exceptional canidates a few time zones away will be considered.
+  although exceptional candidates a few time zones away will be considered.
 * Is an individual contributor job (not people management).
 
 ## Problems
@@ -19,7 +19,7 @@ the enterprise, making tools security and engineering professionals actually wan
 use.  This means we are (among other things):
 
 * API first
-* Performance obsesed
+* Performance obssesed
 * Data driven
 
 To this end we have a nice suite of tools to help developers manage complexity
@@ -42,13 +42,13 @@ Signal Sciences.  Here it means:
 * Working with the Support and Sales Engineering Team, to help understand
   customer requirements and any problems with the existing service.
 * Working with the Ops to make sure your new servers and services are rock
-  solid, monitorable and visibile
+  solid, monitorable and visible
 * and even talking to customers to get unfiltered feedback.  That's the best part!
 
 And oh yeah, you'll be doing lots of programming.  You'll likely need:
 
 * Strong linux and bash skills
-* Proficency in javascript.  We use a lot of
+* Proficiency in javascript.  We use a lot of
   [React](https://facebook.github.io/react/)/[Redux](http://redux.js.org) but we'll train you
   for that part.
 * Proficeny in a few different lanaguges.  We primarily program in Go
