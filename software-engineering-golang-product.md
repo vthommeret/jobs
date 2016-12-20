@@ -19,7 +19,7 @@ the enterprise, making tools security and engineering professionals actually wan
 use.  This means we are (among other things):
 
 * API first
-* Performance obssesed
+* Performance obsessed
 * Data driven
 
 To this end we have a nice suite of tools to help developers manage complexity
