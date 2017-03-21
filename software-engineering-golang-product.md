@@ -8,7 +8,7 @@
 ## The Job
 
 * Is in the engineering group.
-* Located in either Los Angeles, CA, or New York, NY
+* Located in either Los Angeles, CA
   although exceptional candidates a few time zones away will be considered.
 * Is an individual contributor job (not people management).
 
@@ -66,7 +66,7 @@ To apply, send the following to careers@signalsciences.com
 2. Your github or other social-coding handle, or a URL to your personal site
    or blog.
 3. A brief introduction to yourself, and why the job and Signal Sciences
-   is the right place you.
+   are right you.
 
 Didn't see quite the right job?  Email us anyways.
 
