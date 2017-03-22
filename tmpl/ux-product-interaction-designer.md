@@ -21,7 +21,7 @@ While all product designers at Signal Sciences are expected to carry a project f
 
 ## About you
 
-You should have interest and some experience with all the different facets of product design, from UX research and IA to interaction design and prototyping. However, we are looking for someone with strong visual design skills who can help to bring a high level of polish and strong identity and detail to our design system.  The right designer for this role will:
+You should have interest and some experience with all the different facets of product design, from UX research and IA to interaction design and prototyping. However, we are looking for someone with strong visual design skills who can help to bring a high level of polish and strong identity and detail to our design system. The right designer for this role will:
 
 - Use systems thinking to deliver design at scale, rather than creating one-off solutions.
 - Establish a distinctive visual identity for Signal Sciences. You have experience creating interfaces, interactions and illustrations that bring clarity, harmony and beauty to enterprise software or large-scale web applications.

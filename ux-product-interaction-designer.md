@@ -3,7 +3,7 @@
 
 ## About Signal Sciences
 
-[Signal Sciences](https://signalsciences.com/) empowers security and engineering teams by providing visible and effective web application security protecting against real-world attacks.  With our unique hybrid on-premise and cloud architecture, we process, protect and report on billions of requests per day for some of the most sophisticated companies in the world ranging from Adobe to Vimeo, Taser to Under Armour. Our goal is making a more secure Web, with tools that people love to use, written by people who love to make them.  Join Us.
+[Signal Sciences](https://signalsciences.com/) empowers security and engineering teams by providing visible and effective web application security protecting against real-world attacks.  With our unique hybrid on-premise and cloud architecture, we process, protect and report on billions of requests per day for some of the most sophisticated companies in the world ranging from Adobe to Vimeo, Taser to Under Armour. Our goal is making a more secure Web, with tools that people love to use, written by people who love to make them.
 
 
 
@@ -26,7 +26,7 @@ While all product designers at Signal Sciences are expected to carry a project f
 
 ## About you
 
-You should have interest and some experience with all the different facets of product design, from UX research and IA to interaction design and prototyping. However, we are looking for someone with strong visual design skills who can help to bring a high level of polish and strong identity and detail to our design system.  The right designer for this role will:
+You should have interest and some experience with all the different facets of product design, from UX research and IA to interaction design and prototyping. However, we are looking for someone with strong visual design skills who can help to bring a high level of polish and strong identity and detail to our design system. The right designer for this role will:
 
 - Use systems thinking to deliver design at scale, rather than creating one-off solutions.
 - Establish a distinctive visual identity for Signal Sciences. You have experience creating interfaces, interactions and illustrations that bring clarity, harmony and beauty to enterprise software or large-scale web applications.
@@ -45,7 +45,7 @@ You should have interest and some experience with all the different facets of pr
 
 To apply, send the following to careers@signalsciences.com
 
-1. Your resume, preferably in plaintext, markdown or PDF formats.
+1. Your resume, preferably in PDF, plaintext or markdown format.
 2. Your github or other social-coding handle, or a URL to your personal site
    or blog.
 3. A brief introduction to yourself, and why the job and Signal Sciences

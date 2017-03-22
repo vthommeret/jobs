@@ -3,7 +3,7 @@
 
 ## About Signal Sciences
 
-[Signal Sciences](https://signalsciences.com/) empowers security and engineering teams by providing visible and effective web application security protecting against real-world attacks.  With our unique hybrid on-premise and cloud architecture, we process, protect and report on billions of requests per day for some of the most sophisticated companies in the world ranging from Adobe to Vimeo, Taser to Under Armour. Our goal is making a more secure Web, with tools that people love to use, written by people who love to make them.  Join Us.
+[Signal Sciences](https://signalsciences.com/) empowers security and engineering teams by providing visible and effective web application security protecting against real-world attacks.  With our unique hybrid on-premise and cloud architecture, we process, protect and report on billions of requests per day for some of the most sophisticated companies in the world ranging from Adobe to Vimeo, Taser to Under Armour. Our goal is making a more secure Web, with tools that people love to use, written by people who love to make them.
 
 
 
@@ -11,13 +11,13 @@ As we grow, we're looking for midlevel and senior product designers who are exci
 
 Signal Sciences understands that great technology and user-centered design go hand-in-hand, and values UX as essential to building a great product. We're a highly collaborative and friendly bunch that loves to win as a team. We're ambitious but balanced; we value honesty, humility and mutual respect; and we empower each person on the team to make a meaningful impact and own your projects from start to finish.
 
-We're blazing a trail for how application security should work in an agile/DevOps world, which means you'll get to dig in to in some fun, deeply challenging problems. From building out our design system into living React components to coming up with new visualizations for complex datasets, you'll be working every day to deliver world-class design for some of the biggest and best-known brands on the Internet.
+We're blazing a trail for how application security should work in an agile/DevOps world, which means you'll get to dig into some fun, deeply challenging problems. From building out our design system into living React components to coming up with new visualizations for complex datasets, you'll be working every day to deliver world-class design for some of the biggest and best-known brands on the Internet.
 
 ## The Role
 
 Product designers at Signal Sciences work across all [four layers of design](https://blog.intercom.com/the-dribbblisation-of-design/) (outcomes, structure, interaction, visual). You'll get to think strategically about how to make security problems visible and actionable for our customers, while simultaneously working at the atomic level to design interfaces and interactions that add up to a powerful, cohesive and delightful experience. 
 
-While all product designers at Signal Sciences are expected to carry a project from research to polished final product, you will have primary responsibility for defining product flows that map to our users' core tasks, as well as the supporting IA and structure of our application - a meaningful but focused problem space. Questions you'll get get to come in and tackle every day include:
+While all product designers at Signal Sciences are expected to carry a project from research to polished final product, you will have primary responsibility for defining product flows that map to our users' core tasks, as well as the supporting IA and structure of our application - a meaningful but focused problem space. Questions you'll get to come in and tackle every day include:
 
 - How do we onboard new users and make the value of the product evident?
 - How might our tool help bridge gaps between security teams, DevOps, and software engineering?
@@ -51,7 +51,7 @@ You should have interest and some experience with all the different facets of pr
 
 To apply, send the following to careers@signalsciences.com
 
-1. Your resume, preferably in plaintext, markdown or PDF formats.
+1. Your resume, preferably in PDF, plaintext or markdown format.
 2. Your github or other social-coding handle, or a URL to your personal site
    or blog.
 3. A brief introduction to yourself, and why the job and Signal Sciences
